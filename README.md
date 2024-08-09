@@ -8,3 +8,4 @@
 - Removed Layer 1
     - Initially added to allow entering DFU Bootloader mode. This can easily be done by holding ESC when plugging the keyboard.
     - Also allows swapping between NKRO and 6KRO, but I don't really mind 6KRO.
+- Enable VIA (I noticed after this that VIA has everying I need hihi)
